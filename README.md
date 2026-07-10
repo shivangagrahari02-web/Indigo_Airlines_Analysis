@@ -1,11 +1,11 @@
 ## Executive Summary
 
-- Analyzed Indigo Airlines booking data to understand passenger preferences, revenue drivers, route performance, and operational patterns that can support better pricing, scheduling, and service decisions.
-- Cleaned and structured the dataset in Excel and built a metric tree to define the key business questions and KPIs for analysis.
-- Used pivot tables, slicers, charts, descriptive analysis, and hypothesis testing to explore booking trends, seat class behavior, ancillary service usage, route profitability, and revenue distribution.
-- Identified **business class** and add-on services such as **extra baggage** as major contributors to booking value, highlighting clear upsell opportunities.
-- Found that **internet bookings** dominated demand, showing that digital channels play the strongest role in customer acquisition and sales conversion.
-- Observed that certain routes generated significantly higher revenue than others, pointing to route-level differences in demand and commercial value.
-- Discovered that **weekday** and **morning flights** showed stronger passenger load patterns, which can help refine schedule planning and capacity allocation.
-- Compared planned versus actual flight duration to identify route-level inefficiencies and operational variance that may affect customer experience and on-time performance.
-- Converted the findings into actionable insights that can support **route selection, pricing strategy, ancillary revenue growth, service design, and operational planning**.
+- Analyzed Indigo Airlines booking and operational data to identify passenger behavior, booking patterns, operational efficiency, and revenue drivers that support route optimization and business growth.
+- Cleaned and transformed booking data using Excel by handling missing values, removing duplicates, performing outlier analysis, creating calculated fields, and standardizing operational metrics for reliable analysis.
+- Designed a business KPI framework and user journey map to monitor **Booking Completion Rate, Average Booking Amount, Internet Booking Share, Additional Services Revenue, Booking Channel Performance, Passenger Load,** and **Seat Class Revenue**.
+- Applied **Exploratory Data Analysis (EDA), pivot table analysis, correlation analysis, hypothesis testing,** and **trend analysis** to evaluate customer preferences, booking behavior, route profitability, and operational performance.
+- Identified a **15.43% Booking Completion Rate**, **91.78% Internet Booking Share**, **45.82% bookings with additional services**, and an **Average Booking Amount of 3.66K**, providing a comprehensive view of booking performance.
+- Found that **Business Class contributed approximately 41.9% of total revenue**, while ancillary services such as **extra baggage (preferred by ~74.5% of passengers)** significantly increased booking value, highlighting strong upselling opportunities.
+- Revealed that **weekday** and **morning flights** consistently achieved higher passenger demand, while premium routes including **PEN, PVG, KIX,** and **ICN** generated the highest booking revenue.
+- Identified operational inefficiencies on routes such as **KIX, CIN,** and **SIN**, where actual flight duration showed the highest variation from planned schedules, indicating opportunities for operational optimization.
+- Generated actionable business recommendations to improve **route profitability, pricing strategy, ancillary revenue, scheduling efficiency, customer experience, and revenue growth** through data-driven decision-making.
